@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.24.ComputerArchitecture.Assembler", "7.24.ComputerArchitecture.Assembler\7.24.ComputerArchitecture.Assembler.csproj", "{F372D7CB-D6DE-4431-AB1D-D925C8DA800D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F372D7CB-D6DE-4431-AB1D-D925C8DA800D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F372D7CB-D6DE-4431-AB1D-D925C8DA800D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F372D7CB-D6DE-4431-AB1D-D925C8DA800D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F372D7CB-D6DE-4431-AB1D-D925C8DA800D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E04CA608-F124-4B93-8D24-9F5143F0B6C1}
+	EndGlobalSection
+EndGlobal
